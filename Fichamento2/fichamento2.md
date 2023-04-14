@@ -18,52 +18,13 @@ Conforme o tempo passa, vemos que cada vez mais a tecnologia avançando e códig
 ## 2. Fichamento Bibliográfico 
 
 `Nesta parte, ideias e conceitos que aparecem no artigo devem ser organizados e descritos com as palavras do leitor, e, idealmente, devem ser indicadas as páginas onde aparecem no texto. Deve-se incluir de 3 a 6  itens. Exemplo:`
-- Aspect-oriented 
-programming (AOP) is receiving an increased attention due to 
-its power in encapsulating crosscutting concerns
-- Select Refactoring Patterns--Several known 
-refactorings exists, but selection from amongst the 
-available refactoring catalogs must be such that it 
-meets the refactoring motive that are defined in the 
-flow chart.
-- Proposal of New AO refactorings—Parallel to the 
-selection of refactoring catalogs, we propose our 
-own catalog of refactorings [9][10] with aspect 
-oriented programming. The next step that follows is 
-the selection of refactorings according to the 
-situation and applicability. 
-- What Refactoring Activities can be applied-Once 
-the selection of refactoring patterns are made out of 
-the existing[11] and novel techniques ,the 
-developer’s job is to select the refactoring patterns 
-and they should be applied according to their impact 
-on the overall quality of the software. 
-- Set priority for refactoring opportunities-All the 
-selected refactorings cannot be applied randomly, 
-they have to applied according to their priority; some 
-of them have to be applied in sequence also. The 
-next step is to set the priorities for the refactoring 
-patterns. One of the methodologies is to set the 
-priority by ranking the patterns. The use of impact 
-functions can also be done to compute the effect of 
-refactoring. 
-- Apply Refactoring Patterns-After evaluating the 
-refactoring patterns and ranking them on different 
-parameters of software quality, the next step ahead is 
-to apply the refactoring patterns on the software 
-elements, re run the test cases and ensure that the 
-refactoring patterns did not break anything. Their 
-effect will be computed, the result will be analyzed. 
-If needed the effect of the refactoring can be undone. 
-- Analyze the effect of refactoring with AO and 
-without AO-One of the major contribution in our 
-work is the usage of aspect orientation in refactoring 
-the legacy code. So a major task in the process is 
-also to compute the effect of aspect orientation in our 
-work. It is to be analyzed as to how the usage of AO 
-is affecting the software quality parameters and what 
-are the drawbacks of using aspect orientation for the 
-purpose. 
+- Aspect-oriented programming (AOP) is receiving an increased attention due to its power in encapsulating crosscutting concerns
+- Select Refactoring Patterns--Several known refactorings exists, but selection from amongst the available refactoring catalogs must be such that it meets the refactoring motive that are defined in the flow chart.
+- Proposal of New AO refactorings—Parallel to the selection of refactoring catalogs, we propose our own catalog of refactorings [9][10] with aspect oriented programming. The next step that follows is the selection of refactorings according to the situation and applicability. 
+- What Refactoring Activities can be applied-Once the selection of refactoring patterns are made out of the existing[11] and novel techniques ,the developer’s job is to select the refactoring patterns and they should be applied according to their impact on the overall quality of the software. 
+- Set priority for refactoring opportunities-All the selected refactorings cannot be applied randomly, they have to applied according to their priority; some of them have to be applied in sequence also. The next step is to set the priorities for the refactoring patterns. One of the methodologies is to set the priority by ranking the patterns. The use of impact functions can also be done to compute the effect of refactoring. 
+- Apply Refactoring Patterns-After evaluating the refactoring patterns and ranking them on different parameters of software quality, the next step ahead is to apply the refactoring patterns on the software elements, re run the test cases and ensure that the refactoring patterns did not break anything. Their effect will be computed, the result will be analyzed. If needed the effect of the refactoring can be undone. 
+- Analyze the effect of refactoring with AO and without AO-One of the major contribution in our work is the usage of aspect orientation in refactoring the legacy code. So a major task in the process is also to compute the effect of aspect orientation in our work. It is to be analyzed as to how the usage of AO is affecting the software quality parameters and what are the drawbacks of using aspect orientation for the purpose. 
 
 ## 3. Fichamento de Citações 
 
